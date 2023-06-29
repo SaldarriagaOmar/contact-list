@@ -68,5 +68,4 @@ function deleteContact(id) {
   }
   
   deleteContact(3)
-  
   console.log(contactList)

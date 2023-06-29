@@ -37,5 +37,4 @@ imprimirContactos();
 console.log("---------- Contacto borrado 'María Dolores' ----------");
 
 borrarContacto("María Dolores");
-
 imprimirContactos();
